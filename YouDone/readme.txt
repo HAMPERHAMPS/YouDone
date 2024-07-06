@@ -1,0 +1,1 @@
+Once you run this there is no going back. The only way to stop it is task manager. Have fun. To run it install what it says you need to install with pip and then tap start.bat.
